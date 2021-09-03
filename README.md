@@ -24,10 +24,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/FjC5CRo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/Q6eUjcuGBjDHTKqHv0/giphy.gif?cid=790b761184096ced0abc2a758b44eb53e3324160d72023ea&rid=giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Quicktime for MacOS.
-Uploaded using Imgur
+Uploaded using giphy.
 
 ## Notes
 
